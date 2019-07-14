@@ -1,0 +1,4 @@
+lib kkt 32 20
+mmu dma 100 10
+hhh www 190 90
+wo ni 1 0
